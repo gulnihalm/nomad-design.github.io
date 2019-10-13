@@ -3,7 +3,7 @@
 
 ### Reports
 
-[System Description Report](https://github.com/nomad-design/nomad-design.github.io/blob/master/SpecificationReport_Nomad.pdf)
+[System Description Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/SpecificationReport_Nomad.pdf)
 
 ### Team members
 Gülnihal Muslu
