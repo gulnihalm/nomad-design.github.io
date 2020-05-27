@@ -6,6 +6,7 @@ Nomad is a mobile application which aims to help travellers explore new places b
 [Analysis Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/AnalysisReport_Nomad.pdf)<br>
 [High-Level Design Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/HighLevelDesignReport_Nomad.pdf)<br>
 [Low-Level Design Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/LowLevelDesignReport_Nomad.pdf)<br>
+[Final Report](https://github.com/nomad-design/nomad-design.github.io/raw/master/FinalReport_Nomad.pdf)<br>
 
 ### Team members
 Gülnihal Muslu <br>
